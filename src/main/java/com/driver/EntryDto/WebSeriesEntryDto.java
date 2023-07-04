@@ -67,4 +67,5 @@ public class WebSeriesEntryDto {
     public void setProductionHouseId(Integer productionHouseId) {
         this.productionHouseId = productionHouseId;
     }
+
 }
